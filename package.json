@@ -9,16 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Teruel-TE/Gamerhub"
+    "url": "https://github.com/bernardoteixeira09/API-GameHubi"
   },
   "keywords": [],
-  "author": "Teruel",
+  "author": "Bernardo Teixeira",
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/Teruel-TE/Gamerhub/issues"
+    "url": "https://github.com/bernardoteixeira09/API-GameHubi/issues"
   },
-  "homepage": "https://github.com/Teruel-TE/Gamerhub#readme",
+  "homepage": "https://github.com/bernardoteixeira09/API-GameHubi#readme",
   "dependencies": {
     "cors": "^2.8.6",
     "dotenv": "^18.0.9",
